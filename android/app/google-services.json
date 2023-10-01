@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754177501332",
+    "project_id": "multi-store-3b774",
+    "storage_bucket": "multi-store-3b774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754177501332:android:f9d24211db6d22960fec81",
+        "android_client_info": {
+          "package_name": "com.sanam.mulit_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4kKF-4nbtNYUziYgmXN2xkA8S_XD41t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
